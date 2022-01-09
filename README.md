@@ -5,7 +5,7 @@
 
 [![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
 
-- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://github.com/chuzhixin/vue-admin-better)](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 - [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
