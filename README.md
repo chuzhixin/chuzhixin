@@ -1,4 +1,5 @@
-😄 认认真真编程，踏踏实实做人；静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
+😄 静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
+🩺 冬已至，春不远！众志成城，攻坚克难！愿长安，长长安！西安加油！
 
 [![](https://img.shields.io/github/stars/chuzhixin/vue-admin-better?style=flat-square&label=Stars&logo=github)](https://github.com/chuzhixin/vue-admin-better)
 
