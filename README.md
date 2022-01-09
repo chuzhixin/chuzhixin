@@ -8,6 +8,6 @@
 
 - [🚀 admin plus 演示地址（vue3.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-- [📌 pro 及 plus 购买地址 authorization](https://vue-admin-beautiful.com/authorization/)
+- [📌admin pro 及 admin plus 付费版本购买地址](https://vue-admin-beautiful.com/authorization/)
 
 [![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
