@@ -3,8 +3,8 @@
 - 🐛 静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
 
 - [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
-- 
-- [🎉 vue3.x + vite+ ts+ arco.design（基于今日头条开源admin框架魔改，仅供学习）]((https://vue-admin-beautiful.com/vue-admin-arco/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+
+- [🎉 vue3.x + vite+ ts + arco.design（基于今日头条开源admin框架魔改，仅供学习）]((https://vue-admin-beautiful.com/vue-admin-arco/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 - [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
