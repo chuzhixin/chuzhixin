@@ -14,6 +14,7 @@
 
 [![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
 
-访问量<br>
+主页访问量<br>
+
 ![](https://profile-counter.glitch.me/chuzhixin/count.svg)
 
