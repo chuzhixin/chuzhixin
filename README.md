@@ -12,6 +12,8 @@
 
 - [📌admin pro 及 admin plus 付费版本购买地址](https://vue-admin-beautiful.com/authorization/)
 
+- [🚀 Vue Shop Vite 商城（付费版本）](https://vue-admin-beautiful.com/shop-vite/)
+
 [![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
 
 主页访问量<br>
