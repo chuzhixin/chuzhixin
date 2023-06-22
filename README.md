@@ -12,7 +12,7 @@
 
 - [📌 admin pro 及 admin plus 付费版本购买地址](https://vue-admin-beautiful.com/authorization/)
 
-- [🚀 Vue Shop Vite（付费版本）](https://vue-admin-beautiful.com/shop-vite/)
+- [🚀 Vue Shop Vite（vue3.x + vite4.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/shop-vite/)
 
 - [📌 Vue Shop Vite 付费版本购买地址](https://vue-admin-beautiful.com/authorization/shop-vite.html)
 
