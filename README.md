@@ -1,5 +1,4 @@
-- 🔖 夏已至，春尤在，愿所有美好纷沓而来！众志成城，攻坚克难！愿山河无恙，愿祖国平安！
-- 🎉  高考不是终点，人生的路还很漫长，努力去活成自己喜欢的样子，致敬这必死无疑的一生！
+- 🔖 冬已至，春不远，愿所有美好纷沓而来！众志成城，攻坚克难！愿山河无恙，愿祖国平安！
 - 🐛 静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
 
 - [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
