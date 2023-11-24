@@ -3,7 +3,7 @@
 
 - [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-- [🎉 vue3.x + vite + ts + arco.design （基于今日头条开源admin框架魔改，仅供学习，非官方版本）](https://vue-admin-beautiful.com/vue-admin-arco/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-arco/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 - [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
@@ -11,7 +11,7 @@
 
 - [📌 admin pro 及 admin plus 付费版本购买地址](https://vue-admin-beautiful.com/authorization/)
 
-- [🚀 Vue Shop Vite（vue3.x + vite4.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/shop-vite/)
+- [🚀 Vue Shop Vite（vue3.x + vite5.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/shop-vite/)
 
 - [📌 Vue Shop Vite 付费版本购买地址](https://vue-admin-beautiful.com/authorization/shop-vite.html)
 
