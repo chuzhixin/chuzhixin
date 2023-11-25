@@ -1,4 +1,4 @@
-- 🔖 冬已至，春不远，愿所有美好纷沓而来！众志成城，攻坚克难！愿山河无恙，愿祖国平安！
+- 🔖 瑞雪兆丰年，红梅报新春，愿您新的一年平安喜乐，完事顺意，所得皆所愿！
 - 🐛 静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
 
 - [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
