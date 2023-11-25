@@ -1,4 +1,4 @@
-- 🔖 瑞雪兆丰年，红梅报新春，愿您新的一年平安喜乐，完事顺意，所得皆所愿！
+- 🔖 瑞雪兆丰年，红梅报新春，愿您新的一年平安喜乐，万事顺意，所得皆所愿！
 - 🐛 静坐常思己过，闲谈不论人非；希望使用 vue-admin-better 框架的每个人，无论过程怎样，结局都是美好的。
 
 - [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
