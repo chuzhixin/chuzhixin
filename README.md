@@ -15,7 +15,6 @@
 
 - [📌 Vue Shop Vite 付费版本购买地址](https://vue-admin-beautiful.com/authorization/shop-vite.html)
 
-[![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
 
 主页访问量<br>
 
